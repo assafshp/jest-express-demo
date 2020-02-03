@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "serve": "node index.js",
-    "demo": "node index.js & jest",
     "test": "jest test.js --detectOpenHandles"
   },
   "author": "",
